@@ -48,4 +48,8 @@
         <name>Warehouse</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>TestApp</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
